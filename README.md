@@ -13,7 +13,18 @@ The dataset that I used was produced by Davide Anguita et al of the Universit`a 
 It consists of two datasets (train dataset and test dataset), split 70:30, respectively. Each dataset has 562 input feaures (too many to list here) and six predictors or outputs.
 
 ## MODEL 
-The models used in this project are (1) Decision Tree classifier (2) Random Forest classifier (3) Logisitcal Regression (4) Support Vector Machines (5) kNN.
+The models used in this project are 
+
+(1) Decision Tree classifier 
+
+(2) Random Forest classifier 
+
+(3) Logisitcal Regression 
+
+(4) Support Vector Machines 
+
+(5) kNN.
+
 
 ## HYPERPARAMETER OPTIMSATION
 Hyperparameter optimisation using grid search was used on the Decision Tree classifier, Random Forest classifier and Logisitc Regression classifier. 
