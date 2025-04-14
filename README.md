@@ -27,11 +27,17 @@ All models were tested with a test datsset.
 The best performances as summarised below:
 
 Decision Tree (default hyperparameters):                                  accuracy = 73 %
+
 Decision Tree (criterion='entropy', max_depth=7, min_samples_leaf=20,):   accuracy = 75 %
+
 Random Forest (default hyperparameters):                                  accuracy = 83 %
+
 Logistic Regression (default hyperparameters):                            accuracy = 85 %
+
 Support Vector Machine (default hyperparameters):                         accuracy = 85 %
+
 KNN (k=6):                                                                accuracy = 89 %
+
 
 
 ## CONTACT DETAILS
