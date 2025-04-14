@@ -25,7 +25,7 @@ The models used in this project are
 
 (5) kNN.
 
-I also tried an ensemble of some of the models, using 'hard' voting. But the accuracy did not improve.
+I also tried an ensemble of some of the models, using 'soft' voting. But the accuracy did not improve.
 
 
 ## HYPERPARAMETER OPTIMSATION
