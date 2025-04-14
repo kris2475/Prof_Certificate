@@ -25,6 +25,8 @@ The models used in this project are
 
 (5) kNN.
 
+I also tried an ensemble of some of the models, using 'hard' voting. But accuracy did not improve.
+
 
 ## HYPERPARAMETER OPTIMSATION
 Hyperparameter optimisation using grid search was used on the Decision Tree classifier, Random Forest classifier and Logisitc Regression classifier. 
