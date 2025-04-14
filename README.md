@@ -36,19 +36,19 @@ Bayesian Optimisation was used to tune the Support Vector Machine model's hyperp
 
 All models were tested with a test datsset.
 
-The best performances as summarised below:
+The best performances accuracies as summarised below:
 
-Decision Tree (default hyperparameters):                                  accuracy = 73 %
+Decision Tree (default hyperparameters):                                  73 %
 
-Decision Tree (criterion='entropy', max_depth=7, min_samples_leaf=20,):   accuracy = 75 %
+Decision Tree (criterion='entropy', max_depth=7, min_samples_leaf=20,):   75 %
 
-Random Forest (default hyperparameters):                                  accuracy = 83 %
+Random Forest (default hyperparameters):                                  83 %
 
-Logistic Regression (default hyperparameters):                            accuracy = 85 %
+Logistic Regression (default hyperparameters):                            85 %
 
-Support Vector Machine (default hyperparameters):                         accuracy = 85 %
+Support Vector Machine (default hyperparameters):                         85 %
 
-KNN (k=6):                                                                accuracy = 89 %
+KNN (k=6):                                                                89 %
 
 
 
