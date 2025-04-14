@@ -52,7 +52,7 @@ Support Vector Machine (default hyperparameters):                         85 %
 
 KNN (k=6):                                                                89 %
 
-Enemble: KNN, SVM, LogReg, RF:                                            84 %
+Enemble: KNN, LogReg:                                                     88.63 %
 
 
 
