@@ -1,2 +1,38 @@
 # Prof_Certificate
-HAR portfolio project
+Portfolio project on optimising ML models for real-life data
+
+# Human Activity Recognition
+
+
+## EXPLANATION 
+
+The project uses a Human Activity Recognition dataset from Universit`a degli Studi di Genova. It is uses sensor accelerometer and gyropscope sensor data from a smart phone to predict the following human activities: 'Walking', 'Walking Upstairs', 'Walking Downstairs', 'Sitting', 'Standing', 'Laying'. 
+
+## DATA
+The dataset that I used was produced by Davide Anguita et al of the Universit`a degli Studi di Genova. 
+
+## MODEL 
+The models used in this project are (1) Decision Tree classifier (2) Random Forest classifier (3) Logisitcal Regression (4) Support Vector Machines (5) kNN.
+
+## HYPERPARAMETER OPTIMSATION
+Hyperparameter optimisation using grid search was used on the Decision Tree classifier, Random Forest classifier and Logisitc Regression classifier. 
+Bayesian Optimisation was used to tune the Support Vector Machine model's hyperparameters.
+
+
+
+## RESULTS
+
+All models were tested with a test datsset.
+
+The best performances as summarised below:
+
+Decision Tree (default hyperparameters):                                  accuracy = 73 %
+Decision Tree (criterion='entropy', max_depth=7, min_samples_leaf=20,):   accuracy = 75 %
+Random Forest (default hyperparameters):                                  accuracy = 83 %
+Logistic Regression (default hyperparameters):                            accuracy = 85 %
+Support Vector Machine (default hyperparameters):                         accuracy = 85 %
+KNN (k=6):                                                                accuracy = 89 %
+
+
+## CONTACT DETAILS
+krishna.seunarine@swansea.ac.uk
