@@ -6,7 +6,7 @@ Portfolio project on optimising ML models for real-life data
 
 ## EXPLANATION 
 
-The project uses a Human Activity Recognition dataset from Universit`a degli Studi di Genova. It is uses sensor accelerometer and gyropscope sensor data from a smart phone to predict the following human activities: 'Walking', 'Walking Upstairs', 'Walking Downstairs', 'Sitting', 'Standing', 'Laying'. 
+The project uses a Human Activity Recognition dataset from Universit`a degli Studi di Genova. It is uses accelerometer and gyropscope sensor data from a smart phone to predict the following human activities: 'Walking', 'Walking Upstairs', 'Walking Downstairs', 'Sitting', 'Standing', 'Laying'. 
 
 ## DATA
 The dataset that I used was produced by Davide Anguita et al of the Universit`a degli Studi di Genova. 
